@@ -208,7 +208,3 @@ npm run dev
 5. If results < page size → fills with random issues
 6. Implements lazy loading via IntersectionObserver
 7. After exhausting recommendations → "Show Random Issues" button
-
-## License
-
-MIT
